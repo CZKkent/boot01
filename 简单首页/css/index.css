@@ -1,0 +1,32 @@
+body{
+	font-family: "微软雅黑";
+	color: #FFFFFF;
+}
+.navbar-default{
+	background-color: #BCE8F1;
+}
+.onepage{
+	height: 750px;
+}
+.onepage-bg{
+	height: 800px;
+	width: 100%;
+	position: absolute;
+	background-size: cover;
+}
+#onepagebg{
+	background-image: url(../img/60356371_p0.jpg);
+}
+.headh1content{
+	margin-top: 150px;
+	line-height: 75px;
+}
+.headh1content p{
+	font-size: 35px;
+}
+.title-text{
+	margin-left: 50px;
+}
+.headfontsize h1{
+	font-size: 50pt;
+}
